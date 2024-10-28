@@ -1,0 +1,14 @@
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\bin\Debug\net6.0\Occurrences_Numbers.exe
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\bin\Debug\net6.0\Occurrences_Numbers.deps.json
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\bin\Debug\net6.0\Occurrences_Numbers.runtimeconfig.json
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\bin\Debug\net6.0\Occurrences_Numbers.dll
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\bin\Debug\net6.0\Occurrences_Numbers.pdb
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\Occurrences_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\Occurrences_Numbers.AssemblyInfoInputs.cache
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\Occurrences_Numbers.AssemblyInfo.cs
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\Occurrences_Numbers.csproj.CoreCompileInputs.cache
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\Occurrences_Numbers.dll
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\refint\Occurrences_Numbers.dll
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\Occurrences_Numbers.pdb
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\Occurrences_Numbers.genruntimeconfig.cache
+D:\0-SamehElSayed\Projects\My Projects\Occurrences_Numbers\Occurrences_Numbers\obj\Debug\net6.0\ref\Occurrences_Numbers.dll
